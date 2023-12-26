@@ -9,6 +9,8 @@ body
 }
 #container
 {
+    background: 36A;
+    box-shadow: 0px 20px 0px rgba(0, 0, 0, 5);
     width: 70%;
     padding: 1em;
     text-align: left;
